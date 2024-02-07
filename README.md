@@ -5,6 +5,7 @@
 
 # Specific Skills
   Programming Languages: Java, C, C++, Python, LaTex
+  
   IDEs: Clion, VSCode
 
 <!---
