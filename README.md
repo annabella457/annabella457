@@ -3,6 +3,10 @@
   - I'm currently working on a Kaboom.js repository to make a mini-game
   - You can reach me @ my LinkedIn: www.linkedin.com/in/annabella-bokla-983383291/
 
+# Specific Skills
+  Programming Languages: Java, C, C++, Python, LaTex
+  IDEs: Clion, VSCode
+
 <!---
 annabella457/annabella457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
